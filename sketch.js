@@ -57,7 +57,7 @@ function draw() {
 	image(iimage,780, 440,240,200);
 
 
-	// drawSprites();
+	drawSprites();
 
 
 
